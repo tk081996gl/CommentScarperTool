@@ -1,0 +1,16 @@
+C:\Users\Van\source\repos\CommentScarperTool\CommentScarperTool\obj\Debug\CommentScarperTool.csprojResolveAssemblyReference.cache
+C:\Users\Van\source\repos\CommentScarperTool\CommentScarperTool\obj\Debug\CommentScarperTool.Form1.resources
+C:\Users\Van\source\repos\CommentScarperTool\CommentScarperTool\obj\Debug\CommentScarperTool.Properties.Resources.resources
+C:\Users\Van\source\repos\CommentScarperTool\CommentScarperTool\obj\Debug\CommentScarperTool.csproj.GenerateResource.Cache
+C:\Users\Van\source\repos\CommentScarperTool\CommentScarperTool\obj\Debug\CommentScarperTool.csproj.CoreCompileInputs.cache
+C:\Users\Van\source\repos\CommentScarperTool\CommentScarperTool\obj\Debug\CommentScarperTool.Address.resources
+C:\Users\Van\source\repos\CommentScarperTool\CommentScarperTool\obj\Debug\CommentScarperTool.Analysis.resources
+C:\Users\Van\source\repos\CommentScarperTool\CommentScarperTool\obj\Debug\CommentScarperTool.Collection.resources
+C:\Users\Van\source\repos\CommentScarperTool\CommentScarperTool\obj\Debug\CommentScarperTool.CST.resources
+C:\Users\Van\source\repos\CommentScarperTool\CommentScarperTool\obj\Debug\CommentScarperTool.HotComment.resources
+C:\Users\Van\source\repos\CommentScarperTool\CommentScarperTool\bin\Debug\CommentScarperTool.exe.config
+C:\Users\Van\source\repos\CommentScarperTool\CommentScarperTool\bin\Debug\CommentScarperTool.exe
+C:\Users\Van\source\repos\CommentScarperTool\CommentScarperTool\bin\Debug\CommentScarperTool.pdb
+C:\Users\Van\source\repos\CommentScarperTool\CommentScarperTool\obj\Debug\CommentScarperTool.exe
+C:\Users\Van\source\repos\CommentScarperTool\CommentScarperTool\obj\Debug\CommentScarperTool.pdb
+C:\Users\Van\source\repos\CommentScarperTool\CommentScarperTool\obj\Debug\CommentScarperTool.Dashboard.resources
